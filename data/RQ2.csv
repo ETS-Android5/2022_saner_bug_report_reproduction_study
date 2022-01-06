@@ -1,0 +1,182 @@
+﻿ID,GitHub Issue,"S2R Type (Image, Annotated Image, Text, Recording)","OB Type (Image, Annotated Image, Text, Recording)","Context Type (Image, Annotated Image, Text, Recording)","Context Content (phone type, app version, os, etc)"
+2,https://github.com/zwieback/FamilyFinance/issues/1,"['text', 'recording']","['logcat', 'text', 'recording']",['text'],"['os', 'phone type']"
+7,https://github.com/vbier/habpanelviewer/issues/25,['text'],['text'],['text'],"['os', 'phone type']"
+8,https://github.com/koelleChristian/trickytripper/issues/42,['text'],['logcat'],['text'],"['app version', 'os', 'phone type']"
+10,https://github.com/zhanghai/MaterialFiles/issues/184,['text'],['text'],['text'],"['app version', 'installer', 'kernel', 'os', 'phone type']"
+11,https://github.com/gauravjot/android-noad-music-player/issues/1,"['text', 'recording']","['logcat', 'text', 'recording']",['text'],"['app version', 'os', 'phone type']"
+18,https://github.com/citiususc/calendula/issues/134,['text'],"['logcat', 'text']",['text'],['app version']
+19,https://github.com/streetcomplete/StreetComplete/issues/1093,['text'],['text'],['text'],"['app version', 'os']"
+21,https://github.com/netmackan/ATimeTracker/issues/121,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+22,https://github.com/netmackan/ATimeTracker/issues/124,['text'],['text'],['text'],"['os', 'phone type']"
+23,https://github.com/SecUSo/privacy-friendly-weather/issues/61,"['text', 'recording']","['text', 'recording']",['text'],"['app version', 'os', 'phone type']"
+27,https://github.com/fossasia/phimpme-android/issues/1837,['text'],"['annotated image', 'text']",['none'],['none']
+35,https://github.com/ccrama/Slide/issues/2773,['text'],['text'],['text'],"['app version', 'os']"
+43,https://github.com/federicoiosue/Omni-Notes/issues/592,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+44,https://github.com/federicoiosue/Omni-Notes/issues/634,"['image', 'text']","['image', 'text']",['text'],"['app version', 'os', 'phone type']"
+45,https://github.com/federicoiosue/Omni-Notes/issues/764,"['text', 'recording']","['text', 'recording']",['text'],"['app version', 'os', 'phone type']"
+50,https://github.com/asuc-octo/berkeley-mobile-android/issues/82,['text'],['text'],['none'],['none']
+51,https://github.com/alexstyl/Memento-Calendar/issues/168,"['text', 'recording']","['image', 'text', 'recording']",['text'],"['app version', 'os', 'phone type']"
+53,https://github.com/gsantner/markor/issues/1020,['text'],"['image', 'text']",['text'],['app version']
+54,https://github.com/gsantner/markor/issues/331,['text'],['text'],['text'],"['app version', 'os']"
+55,https://github.com/PhenoApps/Field-Book/issues/131,['text'],"['image', 'text']",['text'],"['app version', 'os', 'phone type']"
+56,https://github.com/PhenoApps/Field-Book/issues/137,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+62,https://github.com/Swati4star/Images-to-PDF/issues/85,['text'],['text'],['none'],['none']
+71,https://github.com/Neamar/KISS/issues/1481,['text'],['text'],['text'],"['app version', 'installer']"
+73,https://github.com/AntennaPod/AntennaPod/issues/2992,['text'],"['image', 'text']",['text'],"['app version', 'installer', 'os', 'phone type']"
+76,https://web.archive.org/web/20200921050834/https://github.com/trebleshot/android/issues/79,['text'],['text'],['text'],"['app version', 'installer', 'language', 'os', 'phone type']"
+77,https://github.com/CypherpunkArmory/UserLAnd/issues/753,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+84,https://github.com/ultrasonic/ultrasonic/issues/187,['text'],['logcat'],['text'],"['app version', 'os']"
+87,https://github.com/ultrasonic/ultrasonic/issues/203,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+89,https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/164,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+91,https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/191,['text'],['text'],['none'],['none']
+92,https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/222,['text'],"['image', 'text']",['image'],"['app debug info', 'system information']"
+96,https://github.com/barbeau/gpstest/issues/404,['text'],"['image', 'text']",['text'],"['os', 'phone type']"
+97,https://github.com/osmdroid/osmdroid/issues/1030,"['text', 'recording']","['text', 'recording']",['text'],"['app version', 'os', 'phone type']"
+101,https://github.com/osmdroid/osmdroid/issues/999,['text'],['text'],['text'],['os']
+106,https://github.com/AdrienPoupa/VinylMusicPlayer/issues/139,['text'],['text'],['text'],"['ROM type', 'app version', 'os', 'phone type']"
+107,https://github.com/AdrienPoupa/VinylMusicPlayer/issues/149,['text'],"['image', 'text']",['text'],"['ROM type', 'app version', 'os', 'phone type']"
+110,https://github.com/AdrienPoupa/VinylMusicPlayer/issues/311,['text'],"['image', 'text']",['text'],"['ROM type', 'app version', 'installer', 'os', 'phone type']"
+117,https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2087,"['recording', 'text']","['recording', 'text']",['text'],"['ROM type', 'os', 'phone type']"
+121,https://github.com/Automattic/simplenote-android/issues/1046,['text'],"['annotated image', 'text']",['text'],"['app version', 'os', 'phone type']"
+122,https://github.com/Automattic/simplenote-android/issues/613,['text'],"['annotated image', 'text']",['text'],"['app version', 'os']"
+123,https://github.com/Automattic/simplenote-android/issues/615,['text'],"['image', 'text']",['text'],"['app version', 'os', 'phone type']"
+125,https://github.com/Automattic/simplenote-android/issues/641,['text'],"['image', 'text']",['text'],"['app version', 'os']"
+128,https://github.com/andOTP/andOTP/issues/567,['text'],['text'],['text'],"['app version', 'os']"
+129,https://github.com/andOTP/andOTP/issues/500,['text'],"['logcat', 'text']",['text'],"['ROM type', 'app version', 'os']"
+130,https://github.com/andOTP/andOTP/issues/486,['text'],['text'],['text'],"['ROM type', 'app version', 'installer', 'os']"
+132,https://github.com/commons-app/apps-android-commons/issues/1697,['text'],"['image', 'text']",['text'],"['app version', 'os', 'phone type']"
+135,https://github.com/commons-app/apps-android-commons/issues/2088,['text'],"['image', 'text']",['text'],"['app version', 'os', 'phone type']"
+137,https://github.com/kiwix/kiwix-android/issues/1414,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+139,https://github.com/kiwix/kiwix-android/issues/555,['text'],"['image', 'text']",['text'],"['app version', 'os', 'phone type']"
+142,https://github.com/moezbhatti/qksms/issues/1124,['text'],['text'],['none'],['none']
+144,https://github.com/moezbhatti/qksms/issues/1155,['text'],['text'],['none'],['none']
+145,https://github.com/moezbhatti/qksms/issues/1179,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+151,https://github.com/beemdevelopment/Aegis/issues/200,['text'],['text'],['text'],"['app version', 'encryption type', 'installer', 'os']"
+152,https://github.com/beemdevelopment/Aegis/issues/287,['text'],"['image', 'text']",['text'],"['app version', 'encryption type', 'installer', 'os', 'phone type']"
+155,https://github.com/beemdevelopment/Aegis/issues/473,['text'],['text'],['text'],"['app version', 'encryption type', 'installer', 'os', 'phone type']"
+157,https://github.com/ankidroid/Anki-Android/issues/5753,['text'],['text'],['text'],"['acra uuid', 'app version', 'os']"
+158,https://github.com/ankidroid/Anki-Android/issues/5127,['text'],['text'],['none'],['none']
+159,https://github.com/ankidroid/Anki-Android/issues/6432,['text'],['text'],['none'],['none']
+160,https://github.com/ankidroid/Anki-Android/issues/6119,['text'],"['annotated image', 'text']",['text'],"['acra uuid', 'os']"
+162,https://github.com/k9mail/k-9/issues/3255,['text'],['text'],['text'],"['app version', 'os']"
+164,https://github.com/k9mail/k-9/issues/3971,"['recording', 'text']","['recording', 'text']",['text'],['os']
+165,https://github.com/k9mail/k-9/issues/4435,['text'],['text'],['text'],"['account type', 'app version', 'os']"
+168,https://github.com/cgeo/cgeo/issues/7369,['text'],['text'],"['text', 'text']","['app debug info', 'app version']"
+174,https://github.com/mozilla-mobile/focus-android/issues/2499,['text'],"['logcat', 'text']",['none'],['none']
+178,https://github.com/SecUSo/privacy-friendly-pedometer/issues/28,['none'],['text'],['text'],i
+188,https://github.com/hidroh/materialistic/issues/565,['text'],['text'],['none'],['none']
+191,https://github.com/reloZid/android-anuto/issues/68,['text'],"['image', 'text']",['text'],"['app version', 'installer', 'os']"
+192,https://github.com/gsantner/markor/issues/162,['text'],['text'],['text'],"['app version', 'installer']"
+193,https://github.com/alexstyl/Memento-Calendar/issues/7,"['recording', 'text']","['recording', 'text']",['none'],['none']
+198,https://github.com/y20k/transistor/issues/149,"['recording', 'text']","['recording', 'logcat', 'text']",['text'],"['installer', 'os', 'phone type']"
+199,https://github.com/inaturalist/iNaturalistAndroid/issues/219,['text'],['text'],['none'],['none']
+200,https://github.com/inaturalist/iNaturalistAndroid/issues/237,['text'],"['annotated image', 'text']",['text'],['app version']
+201,https://github.com/inaturalist/iNaturalistAndroid/issues/302,['text'],['text'],['none'],['none']
+205,https://github.com/mozilla-mobile/focus-android/issues/4102,"['recording', 'text']","['recording', 'text']",['text'],['app version']
+206,https://github.com/codinguser/gnucash-android/issues/615,['text'],['text'],['text'],"['app version', 'os']"
+208,https://github.com/codinguser/gnucash-android/issues/633,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+209,https://github.com/codinguser/gnucash-android/issues/689,['text'],"['image', 'text']",['text'],"['app version', 'os', 'phone type']"
+217,https://github.com/mozilla-mobile/focus-android/issues/3287,['text'],"['image', 'text']",['text'],"['app version', 'os', 'phone type']"
+227,https://github.com/codinguser/gnucash-android/issues/723,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+228,https://github.com/codinguser/gnucash-android/issues/731,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+248,https://github.com/getodk/collect/issues/2958,['text'],['text'],['text'],"['app version', 'code info', 'os', 'phone type']"
+250,https://github.com/moezbhatti/qksms/issues/612,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+253,https://github.com/mozilla-mobile/focus-android/issues/3932,['text'],['text'],['text'],"['app version', 'phone type']"
+256,https://github.com/codinguser/gnucash-android/issues/654,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+266,https://github.com/mozilla-mobile/focus-android/issues/3892,"['text', 'recording']","['text', 'recording']",['text'],"['app version', 'keyboard settings', 'os', 'phone type']"
+271,https://github.com/beemdevelopment/Aegis/issues/500,['text'],['text'],['text'],"['app version', 'encryption type', 'installer', 'os', 'phone type']"
+272,https://github.com/mozilla-mobile/focus-android/issues/3297,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+273,https://github.com/ankidroid/Anki-Android/issues/5688,['text'],['text'],['none'],['none']
+274,https://github.com/mozilla-mobile/focus-android/issues/2730,['text'],['text'],['text'],"['os', 'phone type']"
+275,https://github.com/beemdevelopment/Aegis/issues/415,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1002,https://github.com/alexstojda/soen390/issues/36,['text'],['text'],['text'],['os']
+1006,https://github.com/wikimedia/apps-android-wikipedia/issues/282,['text'],['none'],['none'],['none']
+1028,https://github.com/ankidroid/Anki-Android/issues/4502,['text'],['text'],['none'],['none']
+1031,https://github.com/ankidroid/Anki-Android/issues/4707,['text'],['text'],['none'],['none']
+1033,https://github.com/ankidroid/Anki-Android/issues/4801,['text'],['image'],['text'],"['app version', 'os']"
+1065,https://github.com/mozilla-mobile/focus-android/issues/3046,['text'],"['image', 'text']",['text'],"['app version', 'phone type']"
+1066,https://github.com/mozilla-mobile/focus-android/issues/3152,"['recording', 'text']",['text'],['text'],"['app version', 'phone type']"
+1067,https://github.com/mozilla-mobile/focus-android/issues/3304,['text'],"['text', 'recording']",['none'],['none']
+1070,https://github.com/mozilla-mobile/focus-android/issues/2835,['text'],['text'],['text'],"['app version', 'phone type']"
+1073,https://github.com/mozilla-mobile/focus-android/issues/2879,['text'],['text'],['text'],"['app version', 'phone type']"
+1089,https://github.com/ChessCom/android-chessclock/issues/11,['text'],['logcat'],['none'],['none']
+1096,https://github.com/inaturalist/iNaturalistAndroid/issues/722,['text'],['logcat'],['text'],['phone type']
+1100,https://github.com/kiwix/kiwix-android/issues/424,"['text', 'text']",['text'],['text'],"['app version', 'os', 'phone type']"
+1101,https://github.com/kiwix/kiwix-android/issues/472,['text'],"['image', 'text']",['text'],"['app version', 'os', 'phone type']"
+1102,https://github.com/kiwix/kiwix-android/issues/540,['text'],"['recording', 'text']",['text'],"['app version', 'os', 'phone type']"
+1106,https://github.com/kiwix/kiwix-android/issues/1165,['text'],['recording'],['text'],"['os', 'phone type']"
+1130,https://github.com/AntennaPod/AntennaPod/issues/3084,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1133,https://github.com/AntennaPod/AntennaPod/issues/3245,['text'],"['logcat', 'text']",['text'],"['app version', 'os', 'phone type']"
+1136,https://github.com/Automattic/simplenote-android/issues/786,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1140,https://github.com/Automattic/simplenote-android/issues/1170,['text'],['none'],['none'],['none']
+1144,https://github.com/Gear61/Random-Name-Picker/issues/49,['text'],['none'],['none'],['none']
+1145,https://github.com/barbeau/gpstest/issues/436,['text'],['text'],['text'],"['os', 'phone type']"
+1146,https://github.com/barbeau/gpstest/issues/434,['text'],['text'],['text'],"['os', 'phone type']"
+1147,https://github.com/barbeau/gpstest/issues/119,['text'],"['text', 'text']",['text'],"['os', 'phone type']"
+1148,https://github.com/barbeau/gpstest/issues/120,['text'],['text'],['text'],"['os', 'phone type']"
+1149,https://github.com/barbeau/gpstest/issues/330,['text'],['text'],['none'],['none']
+1150,https://github.com/barbeau/gpstest/issues/315,['text'],['text'],['text'],"['os', 'phone type']"
+1151,https://github.com/barbeau/gpstest/issues/127,['text'],['text'],['none'],['none']
+1152,https://github.com/barbeau/gpstest/issues/133,['text'],"['image', 'text']",['text'],"['os', 'phone type']"
+1153,https://github.com/barbeau/gpstest/issues/152,['text'],['text'],['text'],"['os', 'phone type']"
+1160,https://github.com/moezbhatti/qksms/issues/482,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1197,https://github.com/Swati4star/Images-to-PDF/issues/154,['text'],['text'],['none'],['none']
+1198,https://github.com/Swati4star/Images-to-PDF/issues/158,['text'],['text'],['none'],['none']
+1199,https://github.com/Swati4star/Images-to-PDF/issues/218,['text'],['text'],['none'],['none']
+1201,https://github.com/Swati4star/Images-to-PDF/issues/346,['text'],['text'],['none'],['none']
+1202,https://github.com/Swati4star/Images-to-PDF/issues/384,['text'],['text'],['none'],['none']
+1205,https://github.com/Swati4star/Images-to-PDF/issues/602,['text'],"['recording', 'text']",['none'],['none']
+1206,https://github.com/Swati4star/Images-to-PDF/issues/510,['text'],['text'],['none'],['none']
+1207,https://github.com/andOTP/andOTP/issues/135,['text'],"['logcat', 'text']",['text'],"['app version', 'os', 'phone type', 'rom']"
+1210,https://github.com/andOTP/andOTP/issues/356,['text'],['text'],['text'],"['os', 'phone type']"
+1212,https://github.com/andOTP/andOTP/issues/639,['text'],"['logcat', 'text']",['text'],"['app version', 'os', 'phone type']"
+1213,https://github.com/andOTP/andOTP/issues/638,['text'],['text'],['text'],"['os', 'phone type']"
+1214,https://github.com/andOTP/andOTP/issues/580,['text'],"['image', 'text']",['text'],"['os', 'phone type']"
+1215,https://github.com/andOTP/andOTP/issues/569,['text'],"['logcat', 'text']",['text'],"['app version', 'os', 'phone type']"
+1216,https://github.com/ccrama/Slide/issues/2413,['text'],['text'],['text'],"['app version', 'os']"
+1222,https://github.com/codinguser/gnucash-android/issues/617,['text'],['text'],['none'],['none']
+1223,https://github.com/codinguser/gnucash-android/issues/701,['text'],['text'],['text'],"['app version', 'os']"
+1224,https://github.com/codinguser/gnucash-android/issues/620,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1225,https://github.com/codinguser/gnucash-android/issues/621,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1226,https://github.com/codinguser/gnucash-android/issues/663,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1227,https://github.com/codinguser/gnucash-android/issues/664,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1228,https://github.com/codinguser/gnucash-android/issues/699,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1299,https://github.com/PhenoApps/Field-Book/issues/146,['text'],"['logcat', 'text']",['text'],['phone type']
+1300,https://github.com/PhenoApps/Field-Book/issues/145,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1310,https://github.com/alexstyl/Memento-Calendar/issues/43,['text'],['text'],['text'],['os']
+1313,https://github.com/beemdevelopment/Aegis/issues/96,['text'],"['image', 'text']",['text'],"['os', 'phone type']"
+1315,https://github.com/beemdevelopment/Aegis/issues/471,['text'],"['image', 'text']",['text'],"['app version', 'language', 'os', 'phone type']"
+1316,https://github.com/beemdevelopment/Aegis/issues/468,['text'],"['logcat', 'text']",['text'],"['app version', 'os', 'phone type', 'rom']"
+1321,https://github.com/beemdevelopment/Aegis/issues/283,['text'],['text'],['text'],['app version']
+1343,https://github.com/marco97pa/punti-burraco/issues/55,['text'],['text'],['text'],['phone type']
+1344,https://github.com/marco97pa/punti-burraco/issues/51,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1389,https://github.com/y20k/transistor/issues/63,['text'],['none'],['none'],['none']
+1397,https://github.com/fossasia/phimpme-android/issues/2324,['text'],"['image', 'text']",['none'],['none']
+1398,https://github.com/fossasia/phimpme-android/issues/2362,"['image', 'text']",['text'],['none'],['none']
+1399,https://github.com/fossasia/phimpme-android/issues/2416,['text'],"['image', 'text']",['none'],['none']
+1401,https://github.com/fossasia/phimpme-android/issues/2175,['text'],['text'],['none'],['none']
+1402,https://github.com/fossasia/phimpme-android/issues/1039,['text'],['text'],['none'],['none']
+1403,https://github.com/fossasia/phimpme-android/issues/1046,['text'],['text'],['none'],['none']
+1404,https://github.com/fossasia/phimpme-android/issues/2523,['text'],['text'],['none'],['none']
+1405,https://github.com/fossasia/phimpme-android/issues/2318,"['annotated image', 'text']",['text'],['none'],['none']
+1406,https://github.com/fossasia/phimpme-android/issues/1858,"['recording', 'text']",['text'],['none'],['none']
+1425,https://github.com/brodeurlv/fastnfitness/issues/174,['text'],['text'],['text'],"['app version', 'os']"
+1428,https://github.com/brodeurlv/fastnfitness/issues/160,['text'],['text'],['none'],['none']
+1430,https://github.com/brodeurlv/fastnfitness/issues/142,['text'],['text'],['none'],['none']
+1441,https://github.com/cohenadair/anglers-log/issues/151,['text'],['text'],['none'],['none']
+1445,https://github.com/cohenadair/anglers-log/issues/347,['text'],['text'],['none'],['none']
+1446,https://github.com/cohenadair/anglers-log/issues/43,['text'],['text'],['none'],['none']
+1447,https://github.com/cohenadair/anglers-log/issues/9,['text'],['text'],['none'],['none']
+1481,https://github.com/longdivision/hex/issues/4,['text'],['text'],['none'],['none']
+1495,https://github.com/pennlabs/penn-mobile-android/issues/385,['text'],['text'],['none'],['none']
+1498,https://github.com/pennlabs/penn-mobile-android/issues/410,['text'],"['image', 'text']",['none'],['none']
+1499,https://github.com/pennlabs/penn-mobile-android/issues/441,['text'],"['logcat', 'text']",['none'],['none']
+1562,https://github.com/lfuelling/lrkFM/issues/24,['text'],"['logcat', 'text']",['none'],['none']
+1563,https://github.com/lfuelling/lrkFM/issues/26,['text'],['text'],['text'],"['app version', 'os']"
+1566,https://github.com/lfuelling/lrkFM/issues/29,['text'],['text'],['none'],['none']
+1567,https://github.com/lfuelling/lrkFM/issues/34,['text'],['text'],['none'],['none']
+1568,https://github.com/lfuelling/lrkFM/issues/44,['text'],"['logcat', 'text']",['text'],"['app version', 'os', 'phone type']"
+1640,https://github.com/TheMHMoritz3/Trainer-App/issues/1,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1641,https://github.com/TheMHMoritz3/Trainer-App/issues/25,['text'],['text'],['text'],"['app version', 'os', 'phone type']"
+1645,https://github.com/TheMHMoritz3/Trainer-App/issues/7,['text'],['text'],['text'],"['os', 'phone type']"
+,,,,,

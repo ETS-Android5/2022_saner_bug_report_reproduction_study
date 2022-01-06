@@ -1,0 +1,181 @@
+﻿ID,GitHub Issue,user or dev,"Type of additional info added (S2R, OB, context, EB)","value of additional info (number of S2Rs and whether they are setup steps or not, type of context, etc)","how is the information presented? (Image, text, annotated image, video, etc)",time between added info and issue open,time between added info and bug label,time between added info and dev comment,time between added info and close,time between added info and commit,additional notes,comment number,"Type of additional info added (S2R, OB, context, EB).1","value of additional info (number of S2Rs and whether they are setup steps or not, type of context, etc).1","how is the information presented? (Image, text, annotated image, video, etc).1",time between added info and issue open.1,time between added info and bug label.1,time between added info and dev comment.1,time between added info and close.1,time between added info and commit.1,additional notes.1,comment number.1,"Type of additional info added (S2R, OB, context, EB).2","value of additional info (number of S2Rs and whether they are setup steps or not, type of context, etc).2","how is the information presented? (Image, text, annotated image, video, etc).2",time between added info and issue open.2,time between added info and bug label.2,time between added info and dev comment.2,time between added info and close.2,time between added info and commit.2,additional notes.2,comment number.2,Unique Comments with Added Info
+2,https://github.com/zwieback/FamilyFinance/issues/1,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+7,https://github.com/vbier/habpanelviewer/issues/25,USER,OB,text,text,63:52:54,-30:30:57,63:37:34,-52:55:07,-36:20:00,"logcat file was made and sent to devs, but is not available on github",6,,,,,,,,,,,,,,,,,,,,,1
+8,https://github.com/koelleChristian/trickytripper/issues/42,USER,S2R,"3 setup,3 bug",text,478:06:06,-781:55:28,416:08:56,-783:11:15,-762:15:00,,2,OB,image,image,478:06:06,-781:55:28,416:08:56,-783:11:15,-762:15:00,,2,,,,,,,,,,,1
+10,https://github.com/zhanghai/MaterialFiles/issues/184,USER,S2R,1 bug,text,24:18:19,10:23:11,10:23:14,-7:07:10,19:59:00,,2,,,,,,,,,,,,,,,,,,,,,1
+11,https://github.com/gauravjot/android-noad-music-player/issues/1,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+18,https://github.com/citiususc/calendula/issues/134,USER,context,"app version, phone type, os",text,168:02:13,86:48:00,-0:00:41,-10:11:24,-0:15:00,,1,,,,,,,,,,,,,,,,,,,,,1
+19,https://github.com/streetcomplete/StreetComplete/issues/1093,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+21,https://github.com/netmackan/ATimeTracker/issues/121,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+22,https://github.com/netmackan/ATimeTracker/issues/124,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+23,https://github.com/SecUSo/privacy-friendly-weather/issues/61,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+27,https://github.com/fossasia/phimpme-android/issues/1837,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+35,https://github.com/ccrama/Slide/issues/2773,USER,S2R,1 setup,text,46:01:13,-1939:15:41,1:02:00,-6077:11:54,,,2,,,,,,,,,,,,,,,,,,,,,1
+43,https://github.com/federicoiosue/Omni-Notes/issues/592,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+44,https://github.com/federicoiosue/Omni-Notes/issues/634,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+45,https://github.com/federicoiosue/Omni-Notes/issues/764,USER,S2R,1 setup,"['text','recording']",75:10:37,,0:25:07,-2684:59:33,-1742:33:00,"clarification, not additional step",2,context,"phone type, os",text,75:10:37,,0:25:07,-2684:59:33,-1742:33:00,provided info for 2 phones,2,,,,,,,,,,,1
+50,https://github.com/asuc-octo/berkeley-mobile-android/issues/82,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+51,https://github.com/alexstyl/Memento-Calendar/issues/168,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+53,https://github.com/gsantner/markor/issues/1020,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+54,https://github.com/gsantner/markor/issues/331,USER,S2R,2 bug,text,25:11:01,-0:09:05,-0:00:43,-63:46:41,-40:47:00,alternative steps to reproduce,1,context,"phone type, os",text,25:11:01,-0:09:05,-0:00:43,-63:46:41,-40:47:00,different user than filer,1,,,,,,,,,,,1
+55,https://github.com/PhenoApps/Field-Book/issues/131,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+56,https://github.com/PhenoApps/Field-Book/issues/137,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+62,https://github.com/Swati4star/Images-to-PDF/issues/85,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+71,https://github.com/Neamar/KISS/issues/1481,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+73,https://github.com/AntennaPod/AntennaPod/issues/2992,USER,context,"phone type, os",text,51:10:44,-13:36:19,-0:00:47,-1990:40:35,-1971:50:00,different user with the same issue,1,,,,,,,,,,,,,,,,,,,,,1
+76,https://web.archive.org/web/20200921050834/https://github.com/trebleshot/android/issues/79,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+77,https://github.com/CypherpunkArmory/UserLAnd/issues/753,USER,OB,text,,11:07:13,-25:09:01,1:12:23,-30:15:45,-6:30:00,"there is additional discussion between the dev and user, but no additional info is provided",3,,,,,,,,,,,,,,,,,,,,,1
+84,https://github.com/ultrasonic/ultrasonic/issues/187,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+87,https://github.com/ultrasonic/ultrasonic/issues/203,USER,S2R,4 setup,text,9:47:37,1:01:44,5:07:28,-596:42:36,-596:42:36,info was added after bug label,3,,,,,,,,,,,,,,,,,,,,,1
+89,https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/164,USER,context,"account info, phone type",text,23:13:49,-261:39:51,4:30:54,-432:57:36,,,2,context,phone type,text,122:09:49,-162:43:51,103:26:54,-334:01:36,,different user than filer,4,,,,,,,,,,,2
+91,https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/191,USER,context,"phone type, os",text,20:33:30,18:42:54,0:21:44,-17:36:55,-17:36:55,,2,,,,,,,,,,,,,,,,,,,,,1
+92,https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/222,USER,S2R,4 bug,text,205:35:43,176:37:51,200:30:38,-207:24:35,,main issue was edited to include,na,OB,image,image,183:58:43,155:00:51,178:53:38,-229:01:35,,main issue was edited to include,na,context,"phone type, os,",image,183:58:43,155:00:51,178:53:38,-229:01:35,,main issue was edited to include,na,1
+96,https://github.com/barbeau/gpstest/issues/404,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+97,https://github.com/osmdroid/osmdroid/issues/1030,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+101,https://github.com/osmdroid/osmdroid/issues/999,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+106,https://github.com/AdrienPoupa/VinylMusicPlayer/issues/139,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+107,https://github.com/AdrienPoupa/VinylMusicPlayer/issues/149,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+110,https://github.com/AdrienPoupa/VinylMusicPlayer/issues/311,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+117,https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2087,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+121,https://github.com/Automattic/simplenote-android/issues/1046,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+122,https://github.com/Automattic/simplenote-android/issues/613,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+123,https://github.com/Automattic/simplenote-android/issues/615,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+125,https://github.com/Automattic/simplenote-android/issues/641,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+128,https://github.com/andOTP/andOTP/issues/567,USER,S2R,1 bug,text,0:03:15,0:01:28,0:00:45,-2893:59:05,-2893:59:05,,2,OB,text,text,0:08:15,0:06:28,0:05:45,-2893:54:05,-2893:54:05,,4,,,,,,,,,,,2
+129,https://github.com/andOTP/andOTP/issues/500,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+130,https://github.com/andOTP/andOTP/issues/486,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+132,https://github.com/commons-app/apps-android-commons/issues/1697,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+135,https://github.com/commons-app/apps-android-commons/issues/2088,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+137,https://github.com/kiwix/kiwix-android/issues/1414,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+139,https://github.com/kiwix/kiwix-android/issues/555,USER,OB,"['image', 'text']","['image', 'text']",12:58:25,-0:03:27,1:11:40,-4230:33:20,,,2,,,,,,,,,,,,,,,,,,,,,1
+142,https://github.com/moezbhatti/qksms/issues/1124,USER,context,app version,text,263:34:39,,11:02:35,-295:59:41,,,2,context,os,text,303:11:39,,50:39:35,-256:22:41,,,,,,,,,,,,,,1
+144,https://github.com/moezbhatti/qksms/issues/1155,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+145,https://github.com/moezbhatti/qksms/issues/1179,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+151,https://github.com/beemdevelopment/Aegis/issues/200,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+152,https://github.com/beemdevelopment/Aegis/issues/287,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+155,https://github.com/beemdevelopment/Aegis/issues/473,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+157,https://github.com/ankidroid/Anki-Android/issues/5753,USER,context,"app version, os, account info",text,4:25:10,,0:21:28,-73:43:31,,,2,,,,,,,,,,,,,,,,,,,,,1
+158,https://github.com/ankidroid/Anki-Android/issues/5127,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+159,https://github.com/ankidroid/Anki-Android/issues/6432,USER,OB,text,text,11:19:11,,11:18:30,-2:39:19,,,6,,,,,,,,,,,,,,,,,,,,,1
+160,https://github.com/ankidroid/Anki-Android/issues/6119,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+162,https://github.com/k9mail/k-9/issues/3255,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+164,https://github.com/k9mail/k-9/issues/3971,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+165,https://github.com/k9mail/k-9/issues/4435,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+168,https://github.com/cgeo/cgeo/issues/7369,USER,OB,text,text,23:28:50,,0:59:29,-4607:28:48,,,2,,,,,,,,,,,,,,,,,,,,,1
+174,https://github.com/mozilla-mobile/focus-android/issues/2499,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+178,https://github.com/SecUSo/privacy-friendly-pedometer/issues/28,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+188,https://github.com/hidroh/materialistic/issues/565,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+191,https://github.com/reloZid/android-anuto/issues/68,USER,context,"app version, os",text,9:32:11,-30:22:06,-0:00:42,-36:45:20,-36:45:20,different user,1,,,,,,,,,,,,,,,,,,,,,1
+192,https://github.com/gsantner/markor/issues/162,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+193,https://github.com/alexstyl/Memento-Calendar/issues/7,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+198,https://github.com/y20k/transistor/issues/149,USER,S2R,1 bug,text,126:57:01,4:10:03,126:34:31,-3073:04:54,,"clarification, added after bug label",3,,,,,,,,,,,,,,,,,,,,,1
+199,https://github.com/inaturalist/iNaturalistAndroid/issues/219,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+200,https://github.com/inaturalist/iNaturalistAndroid/issues/237,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+201,https://github.com/inaturalist/iNaturalistAndroid/issues/302,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+205,https://github.com/mozilla-mobile/focus-android/issues/4102,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+206,https://github.com/codinguser/gnucash-android/issues/615,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+208,https://github.com/codinguser/gnucash-android/issues/633,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+209,https://github.com/codinguser/gnucash-android/issues/689,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+217,https://github.com/mozilla-mobile/focus-android/issues/3287,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+227,https://github.com/codinguser/gnucash-android/issues/723,USER,S2R,3 bug,text,132:34:47,121:43:39,121:43:50,-2161:13:45,,,10,,,,,,,,,,,,,,,,,,,,,1
+228,https://github.com/codinguser/gnucash-android/issues/731,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+248,https://github.com/getodk/collect/issues/2958,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+250,https://github.com/moezbhatti/qksms/issues/612,USER,OB,app version,text,26:05:51,,1:57:03,-11852:51:45,,,2,,,,,,,,,,,,,,,,,,,,,1
+253,https://github.com/mozilla-mobile/focus-android/issues/3932,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+256,https://github.com/codinguser/gnucash-android/issues/654,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+266,https://github.com/mozilla-mobile/focus-android/issues/3892,USER,context,app version,text,1339:44:17,1338:36:03,1308:04:36,-195:20:31,1292:56:25,,11,context,OS,text,1575:40:17,1574:32:03,1544:00:36,40:35:29,1528:52:25,,12,,,,,,,,,,,2
+271,https://github.com/beemdevelopment/Aegis/issues/500,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+272,https://github.com/mozilla-mobile/focus-android/issues/3297,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+273,https://github.com/ankidroid/Anki-Android/issues/5688,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+274,https://github.com/mozilla-mobile/focus-android/issues/2730,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+275,https://github.com/beemdevelopment/Aegis/issues/415,USER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1002,https://github.com/alexstojda/soen390/issues/36,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1006,https://github.com/wikimedia/apps-android-wikipedia/issues/282,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1028,https://github.com/ankidroid/Anki-Android/issues/4502,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1031,https://github.com/ankidroid/Anki-Android/issues/4707,DEV,context,app version,text,0:11:00,0:11:00,,0:00:00,,,1,,,,,,,,,,,,,,,,,,,,,1
+1033,https://github.com/ankidroid/Anki-Android/issues/4801,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1065,https://github.com/mozilla-mobile/focus-android/issues/3046,DEV,S2R,3 bug,text,55:32:00,55:32:00,-89:31:00,-602:23:00,-576:39:00,,2,,,,,,,,,,,,,,,,,,,,,1
+1066,https://github.com/mozilla-mobile/focus-android/issues/3152,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1067,https://github.com/mozilla-mobile/focus-android/issues/3304,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1070,https://github.com/mozilla-mobile/focus-android/issues/2835,DEV,context,app version,text,2357:29:00,2357:29:00,2357:23:00,0:00:00,,,9,,,,,,,,,,,,,,,,,,,,,1
+1073,https://github.com/mozilla-mobile/focus-android/issues/2879,DEV,context,device,text,0:40:00,-33:04:00,0:00:00,-1339:22:00,-1319:47:00,,1,,,,,,,,,,,,,,,,,,,,,1
+1089,https://github.com/ChessCom/android-chessclock/issues/11,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1096,https://github.com/inaturalist/iNaturalistAndroid/issues/722,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1100,https://github.com/kiwix/kiwix-android/issues/424,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1101,https://github.com/kiwix/kiwix-android/issues/472,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1102,https://github.com/kiwix/kiwix-android/issues/540,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1106,https://github.com/kiwix/kiwix-android/issues/1165,DEV,context,Android version,text,2277:24:00,0:00:00,1461:56:00,-689:49:00,-681:14:00,,9,,,,,,,,,,,,,,,,,,,,,1
+1130,https://github.com/AntennaPod/AntennaPod/issues/3084,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1133,https://github.com/AntennaPod/AntennaPod/issues/3245,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1136,https://github.com/Automattic/simplenote-android/issues/786,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1140,https://github.com/Automattic/simplenote-android/issues/1170,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1144,https://github.com/Gear61/Random-Name-Picker/issues/49,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1145,https://github.com/barbeau/gpstest/issues/436,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1146,https://github.com/barbeau/gpstest/issues/434,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1147,https://github.com/barbeau/gpstest/issues/119,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1148,https://github.com/barbeau/gpstest/issues/120,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1149,https://github.com/barbeau/gpstest/issues/330,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1150,https://github.com/barbeau/gpstest/issues/315,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1151,https://github.com/barbeau/gpstest/issues/127,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1152,https://github.com/barbeau/gpstest/issues/133,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1153,https://github.com/barbeau/gpstest/issues/152,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1160,https://github.com/moezbhatti/qksms/issues/482,DEV,context,app version,text,602:06:00,,0:00:00,-0:01:00,,,1,,,,,,,,,,,,,,,,,,,,,1
+1197,https://github.com/Swati4star/Images-to-PDF/issues/154,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1198,https://github.com/Swati4star/Images-to-PDF/issues/158,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1199,https://github.com/Swati4star/Images-to-PDF/issues/218,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1201,https://github.com/Swati4star/Images-to-PDF/issues/346,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1202,https://github.com/Swati4star/Images-to-PDF/issues/384,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1205,https://github.com/Swati4star/Images-to-PDF/issues/602,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1206,https://github.com/Swati4star/Images-to-PDF/issues/510,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1207,https://github.com/andOTP/andOTP/issues/135,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1210,https://github.com/andOTP/andOTP/issues/356,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1212,https://github.com/andOTP/andOTP/issues/639,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1213,https://github.com/andOTP/andOTP/issues/638,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1214,https://github.com/andOTP/andOTP/issues/580,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1215,https://github.com/andOTP/andOTP/issues/569,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1216,https://github.com/ccrama/Slide/issues/2413,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1222,https://github.com/codinguser/gnucash-android/issues/617,DEV,OB,text,text,0:01:00,0:01:00,-120:54:00,-1310:15:00,-1300:59:00,,1,,,,,,,,,,,,,,,,,,,,,1
+1223,https://github.com/codinguser/gnucash-android/issues/701,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1224,https://github.com/codinguser/gnucash-android/issues/620,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1225,https://github.com/codinguser/gnucash-android/issues/621,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1226,https://github.com/codinguser/gnucash-android/issues/663,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1227,https://github.com/codinguser/gnucash-android/issues/664,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1228,https://github.com/codinguser/gnucash-android/issues/699,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1299,https://github.com/PhenoApps/Field-Book/issues/146,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1300,https://github.com/PhenoApps/Field-Book/issues/145,DEV,context,"device, app version",text,80:09:00,80:09:00,0:00:00,-686:42:00,,,1,context,device,text,96:46:00,96:46:00,16:37:00,-670:05:00,,,3,context,app version,text,766:51:00,766:51:00,686:42:00,0:00:00,,,4,3
+1310,https://github.com/alexstyl/Memento-Calendar/issues/43,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1313,https://github.com/beemdevelopment/Aegis/issues/96,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1315,https://github.com/beemdevelopment/Aegis/issues/471,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1316,https://github.com/beemdevelopment/Aegis/issues/468,DEV,context,app version,text,33:14:00,33:14:00,32:48:00,0:00:00,17:32:00,,4,,,,,,,,,,,,,,,,,,,,,1
+1321,https://github.com/beemdevelopment/Aegis/issues/283,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1343,https://github.com/marco97pa/punti-burraco/issues/55,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1344,https://github.com/marco97pa/punti-burraco/issues/51,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1389,https://github.com/y20k/transistor/issues/63,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1397,https://github.com/fossasia/phimpme-android/issues/2324,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1398,https://github.com/fossasia/phimpme-android/issues/2362,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1399,https://github.com/fossasia/phimpme-android/issues/2416,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1401,https://github.com/fossasia/phimpme-android/issues/2175,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1402,https://github.com/fossasia/phimpme-android/issues/1039,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1403,https://github.com/fossasia/phimpme-android/issues/1046,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1404,https://github.com/fossasia/phimpme-android/issues/2523,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1405,https://github.com/fossasia/phimpme-android/issues/2318,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1406,https://github.com/fossasia/phimpme-android/issues/1858,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1425,https://github.com/brodeurlv/fastnfitness/issues/174,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1428,https://github.com/brodeurlv/fastnfitness/issues/160,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1430,https://github.com/brodeurlv/fastnfitness/issues/142,DEV,context,app version,text,32:37:00,0:26:00,0:00:00,-70:39:00,-62:52:00,,1,,,,,,,,,,,,,,,,,,,,,1
+1441,https://github.com/cohenadair/anglers-log/issues/151,DEV,EB,3 bug,text,33272:52:00,33272:52:00,,33240:36:00,33264:00:00,,1,EB,1 bug,text,33296:52:00,33296:52:00,,33264:36:00,33288:00:00,,4,,,,,,,,,,,2
+1445,https://github.com/cohenadair/anglers-log/issues/347,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1446,https://github.com/cohenadair/anglers-log/issues/43,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1447,https://github.com/cohenadair/anglers-log/issues/9,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1481,https://github.com/longdivision/hex/issues/4,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1495,https://github.com/pennlabs/penn-mobile-android/issues/385,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1498,https://github.com/pennlabs/penn-mobile-android/issues/410,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1499,https://github.com/pennlabs/penn-mobile-android/issues/441,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1562,https://github.com/lfuelling/lrkFM/issues/24,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1563,https://github.com/lfuelling/lrkFM/issues/26,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1566,https://github.com/lfuelling/lrkFM/issues/29,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1567,https://github.com/lfuelling/lrkFM/issues/34,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1568,https://github.com/lfuelling/lrkFM/issues/44,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1640,https://github.com/TheMHMoritz3/Trainer-App/issues/1,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1641,https://github.com/TheMHMoritz3/Trainer-App/issues/25,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+1645,https://github.com/TheMHMoritz3/Trainer-App/issues/7,DEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0

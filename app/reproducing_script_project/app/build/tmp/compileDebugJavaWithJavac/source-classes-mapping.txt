@@ -1,0 +1,4 @@
+edu/sage/android/BuildConfig.java
+ edu.sage.android.BuildConfig
+edu/sage/android/MainActivity.java
+ edu.sage.android.MainActivity
