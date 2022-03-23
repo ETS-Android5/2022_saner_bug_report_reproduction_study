@@ -1,4 +1,4 @@
-# An Empirical Investigation into the Reproduction of Bug Reports for Android Apps
+# AndroR2+: An Empirical Investigation into the Reproduction of Bug Reports for Android Apps
 
 This repo contains the reproduction package for our paper.
 
